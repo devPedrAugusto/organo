@@ -24,10 +24,10 @@ Formulário que cadastrar desevnsolvedores e organiza-los atráves da sua área 
 
 # Tecnologias utilizadas
 
-- `Javascript`
-- `CSS`
-- `React`
-- `HTML`
+`Javascript`
+`CSS`
+`React`
+`HTML`
 
 # Autor
 
