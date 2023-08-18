@@ -75,6 +75,12 @@ function App() {
     setTimes([ ...times, {...novoTime, id: uuidv4()}])
   }
 
+  function esconderTags(tags, contador){
+    let answer;
+    contador ? answer = 'block': answer = 'none'
+    document.querySelectorAll(tags).forEach(tag => tag.style.display = answer)
+  }
+
   return (
     <div className="App">
       <Banner />
@@ -82,7 +88,8 @@ function App() {
       cadastrarTime = {cadastrarTime}
       idColaborador={uuidv4()} 
       times={times.map(time => time.nomeTime)} 
-      aoColaboradorCadastrado={colaborador => aoNovoColaboradorAdicionado(colaborador)}/>
+      aoColaboradorCadastrado={colaborador => aoNovoColaboradorAdicionado(colaborador)}
+      aoEsconder={esconderTags}/>
 
       {times.map(time => <Time 
         id = {time.id}
