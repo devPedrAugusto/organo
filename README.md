@@ -1,10 +1,10 @@
 # ![banner do organo](https://github.com/P4ndda/organo/assets/96143899/f5ea4a36-2ad0-48f5-9d12-210115cafb1d)
 
-Formulário que cadastrar desevnsolvedores e organiza-los atráves da sua área de atuação
+Formulário que cadastrar desenvolvedores e organiza-los atráves da sua área de atuação
 
 
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    Visite o meu projeto [clicando aqui]([https://exemplo.com/](https://organo-tqvo.vercel.app/)).
 </h4>
 
 # Funcionalidades do projeto
