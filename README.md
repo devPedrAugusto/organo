@@ -4,7 +4,7 @@ Formulário que cadastrar desenvolvedores e organiza-los atráves da sua área d
 
 
 <h4 align="center"> 
-    Visite o meu projeto [clicando aqui]([https://exemplo.com/](https://organo-tqvo.vercel.app/)).
+    Visite o meu projeto [clicando aqui](https://organo-tqvo.vercel.app/).
 </h4>
 
 # Funcionalidades do projeto
