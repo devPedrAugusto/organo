@@ -31,5 +31,5 @@ Formulário que cadastrar desevnsolvedores e organiza-los atráves da sua área 
 
 # Autor
 
-| [<img src="https://github.com/p4ndda.png" width=115><br><sub>Pedro Augusto Adão</sub>](https://github.com/p4ndda) |
+| [<img src="https://github.com/devPedrAugusto.png" width=115><br><sub>Pedro Augusto Adão</sub>](https://github.com/devPedrAugusto) |
 | :---: |
