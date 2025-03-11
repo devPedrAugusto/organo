@@ -1,39 +1,45 @@
 .colaborador {
+    box-sizing: border-box;
     position: relative;
+    height: 300px;
     width: 280px;
 }
 
 .colaborador .cabecalho {
-    background-color:  #F0F0F0;
+    background-color: #F0F0F0;
     border-radius: 10px 10px 0px 0px;
 }
+
 .colaborador img {
-    width: 100px;
-    border-radius: 50%;
-    position: relative;
-    bottom: -50px;
+    width: 100%;
+    border-radius: 10px;
 }
 
-.colaborador .rodape {
+.colaborador .colaborador-rodape {
+    padding: 8px;
     background: #FFFFFF;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
     border-radius: 0px 0px 10px 10px;
-    padding-top: 70px;
-    padding-bottom: 30px;
 }
 
-.colaborador .rodape h4 {
-    color: #6278F7;
+.colaborador .colaborador-rodape>h4 {
+    margin: 0;
+    color: #212121;
     font-size: 18px;
     font-weight: bold;
 }
 
-.colaborador .rodape h5 {
+.colaborador .colaborador-rodape h5 {
     font-size: 18px;
     color: #212121;
 }
 
-.deletar{
+.colaborador .colaborador-rodape div {
+    cursor: pointer;
+}
+
+.deletar {
+    cursor: pointer;
     position: absolute;
     right: -10px;
     top: -10px;
