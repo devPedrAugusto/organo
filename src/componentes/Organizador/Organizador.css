@@ -1,4 +1,5 @@
-.Organizador{
+.Organizador {
+    cursor: pointer;
     display: flex;
     justify-content: center;
     gap: 20px;
